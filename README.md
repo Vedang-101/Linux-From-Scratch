@@ -5,8 +5,8 @@ line interface with drivers installed to detect the mouse and keyboard along wit
 efficient for small IoT products,
 
 ### Since these are Virtual Desktop screenshots, here are the links for the .ova files:
-- <a href="">before LFS boot install</a>
-- <a href="">after LFS boot install</a>
+- <a href="">Before LFS boot install</a>
+- <a href="">After LFS boot install</a>
 
 ## Screenshot for the OS running:
 
