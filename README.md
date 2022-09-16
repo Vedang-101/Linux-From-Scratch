@@ -6,7 +6,7 @@ efficient for small IoT products,
 
 ### Since these are Virtual Desktop screenshots, here are the links for the .ova files:
 - <a href="">Before LFS boot install</a>
-- <a href="">After LFS boot install</a>
+- <a href="https://drive.google.com/file/d/1PeKGWWqM7o5jsh_4GmB0FVBBjiCPEx_F/view?usp=sharing">After LFS boot install</a>
 
 ## Screenshot for the OS running:
 
